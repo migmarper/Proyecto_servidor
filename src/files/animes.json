@@ -1,0 +1,40 @@
+[
+    {
+        "id": "anm_6abff185038925.77219588",
+        "titulo": "Kimetsu",
+        "duracion": "60",
+        "descripcion": "",
+        "generos": [
+            "comedia",
+            "drama",
+            "terror"
+        ],
+        "portada": "\/var\/www\/html\/app\/functions\/..\/..\/files\/animes\/20261002_180141_6abff18503493_INSTRUCCIONES.png",
+        "fecha": "2026-10-02 18:01:41"
+    },
+    {
+        "id": "anm_6abff1b8de4a17.21822493",
+        "titulo": "wFFWQ",
+        "duracion": "32",
+        "descripcion": "",
+        "generos": [
+            "comedia",
+            "drama"
+        ],
+        "portada": "\/var\/www\/html\/app\/functions\/..\/..\/files\/animes\/20261002_180232_6abff1b8ddf2c_Captura de pantalla -2026-09-25 18-58-30.png",
+        "fecha": "2026-10-02 18:02:32"
+    },
+    {
+        "id": "anm_6abff4076a9562.89823930",
+        "titulo": "JuanRamon",
+        "duracion": "3",
+        "descripcion": "",
+        "generos": [
+            "comedia",
+            "drama",
+            "terror"
+        ],
+        "portada": "\/var\/www\/html\/app\/functions\/..\/..\/files\/animes\/20261002_181223_6abff4076a1cc_pexels-arin-turkay-39583-137703.jpg",
+        "fecha": "2026-10-02 18:12:23"
+    }
+]
