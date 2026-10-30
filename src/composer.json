@@ -15,6 +15,10 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "phroute/phroute": "^2.2"
+        "phroute/phroute": "^2.2",
+        "ramsey/uuid": "^4.9",
+      "ext-pdo": "*",
+        "respect/validation": "^2.5",
+        "vlucas/phpdotenv": "^5.7"
     }
 }
