@@ -1,0 +1,24 @@
+{
+    "name": "ciclost/proyecto1",
+    "description": "Proyecto",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ciclost\\Proyecto1\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Moises"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phroute/phroute": "^2.2",
+        "ramsey/uuid": "^4.9",
+      "ext-pdo": "*",
+        "respect/validation": "^2.5",
+        "vlucas/phpdotenv": "^5.7"
+    }
+}
