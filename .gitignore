@@ -1,3 +1,4 @@
 /.docker/mariadb/
 /src/vendor/
 .env
+.idea
